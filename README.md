@@ -20,3 +20,10 @@ HerbNetSpace is an innovative biomedical knowledge graph (BiomedKG) embedding fr
 - **Semantic-Guided Learning**: Combines ATC codes, MeSH trees, and clinical co-occurrence patterns
 - **Heterogeneous Embedding**: 256-dimensional embeddings capturing structural/functional relationships
 - **Therapeutic Prediction**: Enables drug repurposing, combination therapy prediction, and mechanistic insights
+
+## Installation
+```bash
+git clone https://github.com/yourusername/HerbNetSpace.git
+cd HerbNetSpace
+conda env create -f environment.yml
+conda activate herbnetspace

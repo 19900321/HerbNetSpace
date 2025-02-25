@@ -1,7 +1,7 @@
 # HerbNetSpace: Bridging Herbal Medicine and Single-Drug Pharmacology through Biomedical Knowledge Graph Embedding
 
 <p align="center">
-  <img src="Fig1.png" alt="HerbNetSpace Workflow" width="800">
+  <img src="workflow_figure.png" alt="HerbNetSpace Workflow" width="800">
   <br>
   <em>Figure 1. HerbNetSpace workflow: (a) Integrated BiomedKG construction, (b) Semantic similarity network creation, (c) Semantic-guided random walks, (d) Unified embedding learning</em>
 </p>
